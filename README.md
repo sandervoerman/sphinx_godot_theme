@@ -1,1 +1,1 @@
-# sphinx_godot_theme
+# Sphinx Godot theme
